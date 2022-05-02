@@ -34,27 +34,35 @@ public class PracticeTest6 {
 		//練習問題②
 
 
-			int i = 0;
+			int x = 0;
 			int count = 1;
 					while(count <= 100) {
 
 						if(count %7 == 0 ) {
 							System.out.println(count);
-							i += count;
+							x += count;
 						}
 
 						count++;
 
 					}
-			System.out.println("7の倍数の総合計は" + i);
+			System.out.println("7の倍数の総合計は" + x);
 
 
-		//練習問題③
+		//練習問題③ ネットで検索しました。
 
 
+			for(int i = 1; i <= 9; i++) {
+				System.out.println();
 
 
+				for(int j = 1; j <= 9; j++) {
+					System.out.printf("%3d",( i*j ));
+
+				}
+			}
+				System.out.println();
 
 	}
-
 }
+
