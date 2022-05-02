@@ -14,7 +14,7 @@ public class PracticeTest2 {
 
 		int x = 480;
 
-			double price = x *= tax ;
+			double price = x * tax ;
 
 				System.out.println(price);
 
