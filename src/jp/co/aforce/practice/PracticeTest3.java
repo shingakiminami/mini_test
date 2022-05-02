@@ -16,7 +16,6 @@ public class PracticeTest3 {
 				System.out.println(dates[1]);
 
 
-
 	}
 
 }

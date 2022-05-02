@@ -41,18 +41,6 @@ public class PracticeTest2 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 
 }
