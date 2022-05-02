@@ -92,13 +92,6 @@ public class PracticeTest5 {
 
 
 
-
-
-
-
-
-
-
 	}
 
 }
